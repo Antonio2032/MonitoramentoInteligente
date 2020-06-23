@@ -6,8 +6,8 @@
 
 char* posicao = "";
 
-const char* ssid = "Douglas";
-const char* password = "Morrison12345";
+const char* ssid = "Name";
+const char* password = "password";
 const char* mqtt_server = "broker.mqtt-dashboard.com";
 const char* posicaoPlaca = "(x:30, y:49)";
 
